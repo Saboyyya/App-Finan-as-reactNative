@@ -1,22 +1,20 @@
 # 💰 App de Finanças
 
+<p align="center">
+  <img src="./assets/preview.jpg" width="300"/>
+</p>
+
 Aplicativo de finanças pessoais desenvolvido com React Native para controle de orçamento e registro de gastos.
 
 ---
 
-##  Funcionalidades
+## 📱 Funcionalidades
 
 - Definir orçamento inicial  
 - Adicionar gastos  
 - Categorias (🍔 Alimentação, 🚗 Transporte, 🎮 Lazer)  
 - Atualização automática do saldo  
 - Histórico de despesas  
-
----
-
-## 📸 Preview
-
-![Preview do App](./assets/preview.jpg)
 
 ---
 
