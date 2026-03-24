@@ -16,7 +16,7 @@ Aplicativo de finanças pessoais desenvolvido com React Native para controle de 
 
 ## 📸 Preview
 
-![Preview do App](./assets/preview.png)
+![Preview do App](./assets/preview.jpg)
 
 ---
 
