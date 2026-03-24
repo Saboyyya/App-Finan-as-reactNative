@@ -1,7 +1,7 @@
 # 💰 App de Finanças
 
 <p align="center">
-  <img src="./assets/preview.jpg" width="300"/>
+  <img src="./assets/preview.jpg" width="200"/>
 </p>
 
 Aplicativo de finanças pessoais desenvolvido com React Native para controle de orçamento e registro de gastos.
